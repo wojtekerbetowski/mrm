@@ -10,7 +10,7 @@
 		"tabs"
     ],
     "browser_action": {
-		"default_icon": "wjug.png",
+		"default_icon": "meetup.png",
 		"default_popup": "popup.html"
     }
 }
